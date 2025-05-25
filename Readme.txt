@@ -1,6 +1,11 @@
-Thanks for downloading this template!
 
-Template Name: Consulting
-Template URL: https://bootstrapmade.com/bootstrap-consulting-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## 🧰 Built With
+- [Bootstrap 5](https://getbootstrap.com/)
+
+## 🔧 Installation
+To run this project locally:
+
+```bash
+git clone https://github.com/yourusername/o-waste-landingpage.git
+cd o-waste-landingpage
+open index.html in your browser
